@@ -198,12 +198,6 @@ For questions about this research, please contact [Your Email/Contact Informatio
 
 ---
 
-<div align="center">
-
 **Note**: Large model files and video datasets are excluded from this repository due to size constraints. Please contact the authors for access to the complete dataset.
-
-</div>
 ```
 
-
-所有格式都符合GitHub Markdown渲染规范，可以直接使用。
