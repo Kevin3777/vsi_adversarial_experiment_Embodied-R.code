@@ -1,4 +1,3 @@
-```markdown
 # VSI Adversarial Experiment: Effects of Visual Interference on Video Understanding
 
 This repository contains comprehensive experiments analyzing the effects of rain/fog and occlusion interference on various video understanding tasks, including object recognition, spatial reasoning, and navigation planning.
