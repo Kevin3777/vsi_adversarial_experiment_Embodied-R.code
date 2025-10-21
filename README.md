@@ -160,28 +160,11 @@ pip install transformers
 
 ### Basic Usage
 
-```python
-from video_editor import add_rain_effect, add_occlusion_effect
 
-# Add rain effects to video
-add_rain_effect("input_video.mp4", "output_rain.mp4")
-
-# Add occlusion effects to video
-add_occlusion_effect("input_video.mp4", "output_occlusion.mp4")
-```
 
 ## 📚 Citation
 
-If you use this work in your research, please cite:
 
-```bibtex
-@article{vsi2024,
-  title={Visual Interference Effects on Video Understanding Tasks},
-  author={Your Name},
-  journal={},
-  year={2024}
-}
-```
 
 ## 📄 License
 
@@ -193,7 +176,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📧 Contact
 
-For questions about this research, please contact [Your Email/Contact Information].
+
 
 ---
 
