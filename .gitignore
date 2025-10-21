@@ -1,0 +1,51 @@
+# 大模型文件 - 这些是最大的文件（3-4GB每个）
+model/hub/
+model/xet/
+
+# 实验视频文件
+vsi_adversarial_experiment/
+data_50/
+
+# 处理后的视频文件
+urban_videos/
+
+# 缓存和临时文件
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.egg-info/
+.pytest_cache/
+.cache/
+
+# 数据文件
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# 日志文件
+*.log
+logs/
+log/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 其他大文件
+*.mp4
+*.avi
+*.mov
+*.zip
+*.tar.gz
+*.7z

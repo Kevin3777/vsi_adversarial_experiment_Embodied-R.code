@@ -1,0 +1,29 @@
+{
+  "original_videos": [
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_2.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_3.mp4",
+    "AerialVLN_0_30BUDKLTXMTIKYKFIPPOXCMISXQE5S.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_0.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_1.mp4"
+  ],
+  "rain_fog_videos": [
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_2_rain_fog.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_3_rain_fog.mp4",
+    "AerialVLN_0_30BUDKLTXMTIKYKFIPPOXCMISXQE5S_rain_fog.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_0_rain_fog.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_1_rain_fog.mp4"
+  ],
+  "occlusion_videos": [
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_2_occlusion.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_3_occlusion.mp4",
+    "AerialVLN_0_30BUDKLTXMTIKYKFIPPOXCMISXQE5S_occlusion.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_0_occlusion.mp4",
+    "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_1_occlusion.mp4"
+  ],
+  "effect_generation": {
+    "completed": true,
+    "success_count": 5,
+    "total_count": 5,
+    "timestamp": "2025-09-28T10:53:46.811430"
+  }
+}

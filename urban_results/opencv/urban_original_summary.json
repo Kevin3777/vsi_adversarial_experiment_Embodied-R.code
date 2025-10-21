@@ -1,0 +1,34 @@
+{
+  "test_type": "urban_original",
+  "total_questions": 14,
+  "correct_answers": 0,
+  "accuracy": 0.0,
+  "category_breakdown": {
+    "Progress Evaluation": {
+      "total": 4,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "Landmark Position": {
+      "total": 4,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "Action Generation": {
+      "total": 4,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "Object Recall": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "Counterfactual": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    }
+  },
+  "timestamp": "2025-09-28T11:02:20.316326"
+}

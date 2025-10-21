@@ -1,0 +1,34 @@
+{
+  "test_type": "urban_occlusion",
+  "total_questions": 14,
+  "correct_answers": 3,
+  "accuracy": 0.2143,
+  "category_breakdown": {
+    "Progress Evaluation": {
+      "total": 4,
+      "correct": 2,
+      "accuracy": 0.5
+    },
+    "Landmark Position": {
+      "total": 4,
+      "correct": 1,
+      "accuracy": 0.25
+    },
+    "Action Generation": {
+      "total": 4,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "Object Recall": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    "Counterfactual": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    }
+  },
+  "timestamp": "2025-10-02T20:58:23.009406"
+}

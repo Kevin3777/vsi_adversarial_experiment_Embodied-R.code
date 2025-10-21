@@ -1,0 +1,100 @@
+[
+  {
+    "Question_id": 2104,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_2.mp4",
+    "question_category": "Progress Evaluation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to move according to a series of movement instructions. What are you doing now?  \nchoose:  \nA. When I reach the halfway circle, I turn left and go down, flying towards the red roof of the smaller building next to the one I climbed over.  \nB. I lift out of the concrete and turn right.  \nC. I turn left next to the building and fly along the side of the building.  \nD. I fly straight up and towards the top of the building.  \nE. I fly across the middle of the street until I reach the middle of the building on the left.  ",
+    "answer": "E"
+  },
+  {
+    "Question_id": 2105,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_2.mp4",
+    "question_category": "Landmark Position",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. You move according to a series of movement instructions. What is the Landmark Position of the intersection with the high-rise building when you reach your current location?  \nchoose:  \nA. I am located above the high-rise building bypass intersection.  \nB. I am currently located on the right side of the high-rise bypass intersection.  \nC. I am located on the left side of the high-rise building bypass intersection.  \nD. I am on the ground near the intersection of high-rise buildings.  \nE. I am under the intersection next to the high-rise building.  ",
+    "answer": "A"
+  },
+  {
+    "Question_id": 2106,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_2.mp4",
+    "question_category": "Action Generation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. You move according to a series of movement instructions. At this point, what is the best next step for you?  \nchoose:  \nA. I go up and turn right.  \nB. I descend and fly forward.  \nC. I fly forward and rotate the camera upward.  \nD. I turn left and go up.  \nE. I rise directly.  ",
+    "answer": "E"
+  },
+  {
+    "Question_id": 2107,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_3.mp4",
+    "question_category": "Progress Evaluation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to move according to a series of movement instructions. What are you doing now?  \nchoose:  \nA. I fly across the middle of the street until I reach the building on the left, surrounded by a short concrete wall-like structure.  \nB. I turn right and start leveling off.  \nC. I fly straight up and towards the top of the building.  \nD. I turn left next to the building and fly along the side of the building.  \nE. I lift out of the concrete and turn right.  ",
+    "answer": "C"
+  },
+  {
+    "Question_id": 2108,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_3.mp4",
+    "question_category": "Landmark Position",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to move according to a series of movement instructions. What is the Landmark Position of the intersection with the high-rise building when you reach your current location?  \nchoose:  \nA. I am above the high-rise building bypass intersection.  \nB. I am far away from the high-rise building bypass intersection.  \nC. I am on the ground near the intersection of high-rise buildings.  \nD. I am on the left side of the high-rise building bypass intersection.  \nE. I am under the intersection next to the tall building.  ",
+    "answer": "A"
+  },
+  {
+    "Question_id": 2109,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_3.mp4",
+    "question_category": "Action Generation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to move according to a series of movement instructions. In terms of next steps, what is the best next step for you?  \nchoose:  \nA. I go up and turn left.  \nB. I descend and fly forward.  \nC. I turn left and go up.  \nD. I turn right and go up.  \nE. I fly forward and rotate the camera to the right.",
+    "answer": "E"
+  },
+  {
+    "Question_id": 171,
+    "video_id": "AerialVLN_0_30BUDKLTXMTIKYKFIPPOXCMISXQE5S.mp4",
+    "question_category": "Object Recall",
+    "question": "Question: When you take off, what’s on the side of the building’s exterior wall on the side of the road?  \nChoice:  \nA. A tree.  \nB. Two flags.  \nC. A street light.  \nD. A pavilion.  \nE. A food truck.  ",
+    "answer": "B"
+  },
+  {
+    "Question_id": 172,
+    "video_id": "AerialVLN_0_30BUDKLTXMTIKYKFIPPOXCMISXQE5S.mp4",
+    "question_category": "Counterfactual",
+    "question": "Question: If you choose to fly directly over the road parallel to the lake instead of flying along it, will the mission be accomplished and what are the alternative routes?  \nChoice: A. I can complete the mission because I avoid obstacles, and the hypothetical movement takes less time.  \n           B. I would not be able to complete my mission because I deviate from the path of the buildings, making the alternative longer and less efficient.  \n           C. I can complete the task in a time-consuming manner similar to the original path.  ",
+    "answer": "C"
+  },
+  {
+    "Question_id": 2098,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_0.mp4",
+    "question_category": "Progress Evaluation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. You move according to a series of movement instructions. What are you doing now?  \nchoose:  \nA. I turn right and start leveling off before reaching the top.  \nB. I lift out of the concrete and turn right.  \nC. I turn left next to the building and fly along the side of the building.  \nD. When I reach the dark brown building in the middle, I fly straight up to the top of the building.  \nE. I fly across the middle of the street until I reach the intersection.  ",
+    "answer": "E"
+  },
+  {
+    "Question_id": 2099,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_0.mp4",
+    "question_category": "Landmark Position",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to navigate according to a series of movement instructions. What is the Landmark Position of the intersection with the high-rise building when you reach your current location?  \nchoose:  \nA. I am located above the high-rise building bypass intersection.  \nB. I am located on the left side of the high-rise building bypass intersection.  \nC. I am under the intersection next to the high-rise building.  \nD. I am located on the right side of the high-rise building bypass intersection.  \nE. I am on the ground at the intersection of a high-rise building.  ",
+    "answer": "A"
+  },
+  {
+    "Question_id": 2100,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_0.mp4",
+    "question_category": "Action Generation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. You move according to a series of movement instructions. In terms of next steps, what is your best next step?  \nchoose:  \nA. I go up and turn right.  \nB. I descend and turn left.  \nC. I fly forward while rising.  \nD. I turn left and go up.  \nE. I fly forward.  ",
+    "answer": "B"
+  },
+  {
+    "Question_id": 2101,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_1.mp4",
+    "question_category": "Progress Evaluation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to follow a series of movement instructions. What are you doing now?  \nchoose:  \nA. I fly alongside them.  \nB. I lift out of the concrete and turn right.  \nC. I turn left and right next to the building.  \nD. I fly straight up and towards the top of the building.  \nE. I fly across the middle of the street until I reach the building on the left, with a platform structure surrounding it.  ",
+    "answer": "E"
+  },
+  {
+    "Question_id": 2102,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_1.mp4",
+    "question_category": "Landmark Position",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. At the initial position, you are asked to navigate according to a series of movement instructions. What is the Landmark Position of the intersection with the high-rise building when you reach your current location?  \nchoose:  \nA. I am located above the high-rise building bypass intersection.  \nB. I am far away from the high-rise building bypass intersection.  \nC. I am on the ground near the intersection of high-rise buildings.  \nD. I am located on the left side of the high-rise building bypass intersection.  \nE. I am under the intersection next to the tall building.  ",
+    "answer": "A"
+  },
+  {
+    "Question_id": 2103,
+    "video_id": "AerialVLN_0_35H6S234SJYE7JR0C76QLOU436G65H_1.mp4",
+    "question_category": "Action Generation",
+    "question": "Question: Navigation Instruction given at initial position: [rise from the concrete and turn right. fly over the middle of the street until you reach the buildings on the left with the short concrete wall like structure around them. turn left right beside the buildings and fly along beside them. when you get to the middle darker brown building then angle straight up and fly toward the top of the building. before you get to the top turn right and begin to level off. fly toward the building with the half pipe or half circle design on the edge of the roof. when you get to the half circle then turn left and downward and fly toward the red roof of the smaller building beside the one you climbed. stop well before you get to the roof.]. You move according to a series of movement instructions. In terms of next steps, what is the best next step for you?  \nchoose:  \nA. I go up and turn right.  \nB. I descend and fly forward.  \nC. I fly forward when rising.  \nD. I turn right and go up.  \nE. I fly forward.  ",
+    "answer": "D"
+  }
+]
